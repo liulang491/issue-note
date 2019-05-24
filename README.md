@@ -1,2 +1,3 @@
-# issue-note
-我的笔记
+## issue-note
+
+Click [Here](https://github.com/yingzhuo/issue-note/issues).
